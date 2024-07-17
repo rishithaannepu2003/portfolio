@@ -1,0 +1,102 @@
+[
+  {
+    "name": "rock paper scissor Game using Java Swing",
+    "desc": "Developed a graphical user interface (GUI) application for the classic game Rock, Paper, Scissors using Java Swing.",
+    "image": "rockpaperscissior",
+    "category": "Java Swing",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Quadruped robot",
+    "desc": "Designed and built a four-legged robot (quadraped) using Arduino, showcasing expertise in robotics, programming, and electronics.",
+    "image": "quadruped",
+    "category": "Arduino-based Quadruped Robot",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Travel Guide app",
+    "desc": "Designed an intuitive Travel Guide App in Android Studio, featuring interactive maps, insightful user reviews, and a personalized itinerary planner for an enhanced travel experience.",
+    "image": "travel",
+    "category": "Android",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "road safety management system",
+    "desc": "Worked on Road Safety to Prevent Accidents using Python.",
+    "image": "road",
+    "category": "road safety",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "News Portal",
+    "desc": "Web development project created a website in real-time.",
+    "image": "news",
+    "category": "Web development",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Blood bank Management System",
+    "desc": "Worked on Blood bank Management in managing various blood bank operations using database.",
+    "image": "bloodbank",
+    "category": "database management",
+    "links": {
+      "view": "https://flipkartwebs.herokuapp.com/",
+      "code": "https://github.com/jigar-sable/flipkart-mern"
+    }
+  },
+  {
+    "name": "chatbot",
+    "desc": "Developed a chatbot to interact with users and perform specific tasks using natural language processing techniques.",
+    "image": "chatbot",
+    "category": "natural language processing",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Landing page",
+    "desc": "Developed a landing page with modern design and user-friendly features to effectively showcase products or services.",
+    "image": "landing",
+    "category": "landing page",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "to-do-list",
+    "desc": "Developed a web application for managing tasks and to-do lists, enhancing productivity and organization.",
+    "image": "To-do-list",
+    "category": "web development",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "tic-tac-toe",
+    "desc": "Implemented a tic-tac-toe game in Python, featuring a graphical user interface for interactive gameplay.",
+    "image": "tic-tac-toe",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  }
+]
